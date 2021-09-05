@@ -1,0 +1,15 @@
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\bin\Debug\netstandard2.0\sumasyrestas.deps.json
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\bin\Debug\netstandard2.0\sumasyrestas.dll
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\bin\Debug\netstandard2.0\ref\sumasyrestas.dll
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\bin\Debug\netstandard2.0\sumasyrestas.pdb
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\sumasyrestas.csproj.AssemblyReference.cache
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\sumasyrestas.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\sumasyrestas.AssemblyInfoInputs.cache
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\sumasyrestas.AssemblyInfo.cs
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\sumasyrestas.csproj.CoreCompileInputs.cache
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\XamlC.stamp
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\sumasyrestas.dll
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\ref\sumasyrestas.dll
+D:\programacion_moviles\xamarin\sumasyrestas\sumasyrestas\obj\Debug\netstandard2.0\sumasyrestas.pdb
