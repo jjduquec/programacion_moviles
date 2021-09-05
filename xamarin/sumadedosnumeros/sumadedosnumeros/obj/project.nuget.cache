@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xN4HRmIurvZk453BB52crEMIuqYQDdt9oDxPCpATBkgG7NP66CxeHmw/XKM67WkdqrHAt4++Za0yoMZWVwMsXA==",
+  "success": true,
+  "projectFilePath": "D:\\programacion_moviles\\xamarin\\sumadedosnumeros\\sumadedosnumeros\\sumadedosnumeros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Juan\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

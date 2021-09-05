@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sumadedosnumeros.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Suma de dos numeros en android " HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Valor A" HorizontalTextAlignment="Start" TextColor="White" FontSize="Large" />
+        <Entry x:Name="valorA" Margin="5" FontSize="Large" Keyboard="Numeric" ></Entry>
+        <Label Text="Valor B" HorizontalTextAlignment="Start" FontSize="Large" TextColor="White"></Label>
+        <Entry x:Name="ValorB" Margin="5" FontSize="Large" Keyboard="Numeric"></Entry>
+        <Button  Text="Sumar Valores" Margin="5"  FontSize="Large" Clicked="Button_Clicked"></Button>
+        <Label x:Name="Resultado"  Text="Resultado"  HorizontalTextAlignment="Center" TextColor="Red" FontSize="Large"></Label>
+    </StackLayout>
+
+</ContentPage>

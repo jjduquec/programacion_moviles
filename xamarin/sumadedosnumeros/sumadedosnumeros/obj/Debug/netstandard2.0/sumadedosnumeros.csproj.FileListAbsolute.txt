@@ -1,0 +1,15 @@
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\bin\Debug\netstandard2.0\sumadedosnumeros.deps.json
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\bin\Debug\netstandard2.0\sumadedosnumeros.dll
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\bin\Debug\netstandard2.0\ref\sumadedosnumeros.dll
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\bin\Debug\netstandard2.0\sumadedosnumeros.pdb
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\sumadedosnumeros.csproj.AssemblyReference.cache
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\sumadedosnumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\sumadedosnumeros.AssemblyInfoInputs.cache
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\sumadedosnumeros.AssemblyInfo.cs
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\sumadedosnumeros.csproj.CoreCompileInputs.cache
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\XamlC.stamp
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\sumadedosnumeros.dll
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\ref\sumadedosnumeros.dll
+D:\programacion_moviles\xamarin\sumadedosnumeros\sumadedosnumeros\obj\Debug\netstandard2.0\sumadedosnumeros.pdb
