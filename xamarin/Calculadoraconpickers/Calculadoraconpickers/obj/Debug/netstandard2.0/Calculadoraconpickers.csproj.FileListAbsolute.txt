@@ -1,0 +1,15 @@
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\Calculadoraconpickers.csproj.AssemblyReference.cache
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\Calculadoraconpickers.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\Calculadoraconpickers.AssemblyInfoInputs.cache
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\Calculadoraconpickers.AssemblyInfo.cs
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\Calculadoraconpickers.csproj.CoreCompileInputs.cache
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\Calculadoraconpickers.dll
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\ref\Calculadoraconpickers.dll
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\Calculadoraconpickers.pdb
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\bin\Debug\netstandard2.0\Calculadoraconpickers.deps.json
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\bin\Debug\netstandard2.0\Calculadoraconpickers.dll
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\bin\Debug\netstandard2.0\ref\Calculadoraconpickers.dll
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\bin\Debug\netstandard2.0\Calculadoraconpickers.pdb
+D:\programacion_moviles\xamarin\Calculadoraconpickers\Calculadoraconpickers\obj\Debug\netstandard2.0\XamlC.stamp

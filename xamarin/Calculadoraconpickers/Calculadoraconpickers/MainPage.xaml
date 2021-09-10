@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadoraconpickers.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Calculadora con pickers" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Valor A" Margin="5"></Label>
+        <Entry x:Name="valorA" Keyboard="Numeric" Margin="5"></Entry>
+        <Label Text="Valor B" Margin="5"></Label>
+        <Entry x:Name="valorB" Margin="5"  Keyboard="Numeric"></Entry>
+        <Picker Title="Operaciones" x:Name="operacion" VerticalOptions="Center">
+            <Picker.Items>
+
+                <x:String>Suma</x:String>
+                <x:String>Resta</x:String>
+                <x:String>Multiplicacion</x:String>
+                <x:String>Division</x:String>
+            </Picker.Items>
+            
+            
+            
+        </Picker>
+        <Button Text="Calcular" Margin="5" Clicked="Button_Clicked" ></Button>
+        <Label x:Name="resultado" Text="Resultado" Margin="5" TextColor="AliceBlue"></Label>
+    </StackLayout>
+
+</ContentPage>

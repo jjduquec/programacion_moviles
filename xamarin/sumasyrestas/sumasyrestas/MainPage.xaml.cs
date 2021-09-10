@@ -24,38 +24,49 @@ namespace sumasyrestas
                 float c; //definimos la variable en la que mostraremos el resultado  
 
                 // a travez de un switch case definimos la operacion a efectuar  
-                switch (operacion.SelectedIndex) {
-
-                    case 0:
-                        //efectuamos suma  
-                        c = a + b;
-                        resultado.Text = a + "+" + b + "=" + c;
-                        break;
-                    case 1:
-                        //efectuamos resta 
-                        c = a - b;
-                        resultado.Text = a + "+" + b + "=" + c;
-                        break;
-
-                    case 2:
-                        //efectuamos multiplicacion 
-                        c = a * b;
-                        resultado.Text = a + "+" + b + "=" + c;
-                        break;
-                    case 3:
-                        //efectuamos division
-                        c = a / b;
-                        resultado.Text = a + "+" + b + "=" + c;
-                        break;
-
-                    default:
-                        resultado.Text = "No ha seleccionado alguna opcion, porfavor intentelo nuevamente";
-                        break;
 
 
+                if (c1.IsChecked)
+                {
+                    //efectuamos suma  
+                    c = a + b;
+                    resultado.Text = a + "+" + b + "=" + c;
+                }
+                else if (c2.IsChecked)
+                {
 
+                    //efectuamos resta 
+                    c = a - b;
+                    resultado.Text = a + "-" + b + "=" + c;
+                }
+                else if (c3.IsChecked)
+                {
+
+
+                    //efectuamos multiplicacion 
+                    c = a * b;
+                    resultado.Text = a + "*" + b + "=" + c;
 
                 }
+                else if (c4.IsChecked)
+                {
+                    //efectuamos division
+                    c = a / b;
+                    resultado.Text = a + "/" + b + "=" + c;
+                }
+                else {
+
+                    resultado.Text = "Operacion invalida, porfavor intente de nuevo";
+                
+                
+                }    
+
+                    
+
+
+
+
+                
 
 
             } catch (Exception) {

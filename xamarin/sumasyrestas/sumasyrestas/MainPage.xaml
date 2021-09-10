@@ -5,21 +5,38 @@
 
     <StackLayout>
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Calculadora con radio buttons" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Label Text="Calculadora con CheckBox" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
         <Label Text="Valor A" HorizontalTextAlignment="Start" Margin="5" FontSize="Large" ></Label>
         <Entry x:Name="valorA"  HorizontalTextAlignment="Start" Margin="5"  FontSize="Large" Keyboard="Numeric"></Entry>
         <Label Text="Valor B" HorizontalTextAlignment="Start" Margin="5" FontSize="Large" ></Label>
         <Entry x:Name="valorB"  HorizontalTextAlignment="Start" Margin="5"  FontSize="Large" Keyboard="Numeric"></Entry>
-        <input:RadioButtonGroupView Margin="5" x:Name="operacion">
+        <StackLayout Orientation="Horizontal" Margin="5,0">
+            <CheckBox x:Name="c1"></CheckBox>
+            <Label Text="Sumar" VerticalOptions="Center"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="5,0">
+            <CheckBox x:Name="c2"></CheckBox>
+            <Label Text="Restar" VerticalOptions="Center"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="5,0">
+            <CheckBox x:Name="c3"></CheckBox>
+            <Label Text="Multiplicar" VerticalOptions="Center"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="5,0">
+            <CheckBox x:Name="c4"></CheckBox>
+            <Label Text="Dividir" VerticalOptions="Center"></Label>
+        </StackLayout>
+        <Button Text="Cal cular Operacion" Clicked="Button_Clicked"  ></Button>
+        <Label x:Name="resultado" Text="Resultado" HorizontalTextAlignment="Start" Margin="5" FontSize="Large"></Label>
+    </StackLayout>
+    <!-- 
+    <input:RadioButtonGroupView Margin="5" x:Name="operacion">
             <input:RadioButton Text="Suma"></input:RadioButton>
             <input:RadioButton Text="Resta"></input:RadioButton>
             <input:RadioButton Text="Multiplicacion"></input:RadioButton>
             <input:RadioButton Text="Division"></input:RadioButton> 
             
-        </input:RadioButtonGroupView>
-        <Button Text="Calcular Operacion" Clicked="Button_Clicked"  ></Button>
-        <Label x:Name="resultado" Text="Resultado" HorizontalTextAlignment="Start" Margin="5" FontSize="Large"></Label>
-    </StackLayout>
-
+        </input:RadioButtonGroupView> 
+    -->
 </ContentPage>
