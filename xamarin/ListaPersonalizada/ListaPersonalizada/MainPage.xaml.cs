@@ -24,15 +24,15 @@ namespace ListaPersonalizada
         public MainPage()
         {
             InitializeComponent();
-            lista.ItemsSource = datos;
+            milista.ItemsSource = datos;
         }
 
-        private void Button_Clicked(object sender, EventArgs e)
+        private void Button_Clicked(object sender,System.EventArgs e)
         {
             datos.Add(new Fruta { Nombre = Valor.Text, Url = url_imagen.Text });
         }
 
-        private void MenuItem_Mostrar(object sender, EventArgs e)
+        private void MenuItem_Mostrar(object sender, System.EventArgs e)
         {
             DisplayAlert("Mensaje", "Ha Seleccionado Mostrar", "ok");
         }
@@ -59,7 +59,7 @@ namespace ListaPersonalizada
             }
             if (action == "Editar") {
 
-                await DisplayAlert("Mnesaje", "Selecciono Editar", "ok");
+                await DisplayAlert("Mensaje", "Selecciono Editar", "ok");
             }
             
         }

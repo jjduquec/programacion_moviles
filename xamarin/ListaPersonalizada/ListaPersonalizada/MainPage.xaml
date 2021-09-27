@@ -12,7 +12,7 @@
         <Label Text="Url Imagen de la fruta" Margin="5"></Label>
         <Entry x:Name="url_imagen" Margin="5"></Entry>
         <Button Text="Agregar" CornerRadius="24" BackgroundColor="Beige" Clicked="Button_Clicked"  Margin="5"></Button>
-        <ListView x:Name="lista" ItemTapped="milista" Margin="5" SeparatorColor="Aquamarine">
+        <ListView x:Name="milista" ItemTapped="Lista_ItemTapped" Margin="5" SeparatorColor="Aquamarine">
             <ListView.ItemTemplate>
 
                 <DataTemplate>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Parcial.MainPage" >
+    <ScrollView>
+        <StackLayout BackgroundColor="#2196F3">
+        
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Aplicativo" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Label Text="Iniciar Sesion" TextColor="White" HorizontalTextAlignment="Center" FontSize="Large"></Label>
+            <Label Text="Nombre" FontSize="Large" TextColor="White" ></Label>
+            <Entry x:Name="nombre"></Entry>
+            <Label Text="Password" TextColor="White" FontSize="Large" ></Label>
+            <Entry x:Name="password" IsPassword="True" ></Entry>
+            <Label Text="Rol:"></Label>
+            <StackLayout Orientation="Horizontal" Margin="5,0">
+                <CheckBox x:Name="cliente"></CheckBox>
+                <Label Text="Cliente" TextColor="White" FontSize="Large" ></Label>
+                <CheckBox x:Name="proveedor"></CheckBox>
+                <Label Text="Proveedor" TextColor="White" FontSize="Large"></Label>
+            </StackLayout>
+            
+            <Button Text="Ingresar" TextColor="White" Clicked="inicio_sesion"></Button>
+            <Button Text="Registrar Cliente"  TextColor="White"  Clicked="registrar_cliente"></Button>
+            <Button Text="Registrar Proveedor" TextColor="White" Clicked="registrar_proveedor"></Button>
+        </StackLayout>
+
+
+    </ScrollView>
+
+</ContentPage>

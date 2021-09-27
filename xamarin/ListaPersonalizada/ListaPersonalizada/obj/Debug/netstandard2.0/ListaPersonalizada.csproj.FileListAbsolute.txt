@@ -1,0 +1,15 @@
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\ListaPersonalizada.csproj.AssemblyReference.cache
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\ListaPersonalizada.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\ListaPersonalizada.AssemblyInfoInputs.cache
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\ListaPersonalizada.AssemblyInfo.cs
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\ListaPersonalizada.csproj.CoreCompileInputs.cache
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\ListaPersonalizada.dll
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\ref\ListaPersonalizada.dll
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\ListaPersonalizada.pdb
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\bin\Debug\netstandard2.0\ListaPersonalizada.deps.json
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\bin\Debug\netstandard2.0\ListaPersonalizada.dll
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\bin\Debug\netstandard2.0\ref\ListaPersonalizada.dll
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\bin\Debug\netstandard2.0\ListaPersonalizada.pdb
+D:\programacion_moviles\xamarin\ListaPersonalizada\ListaPersonalizada\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+ xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+ xmlns:local="clr-namespace:graficos"
+ xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+ x:Class="graficos.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Aplicativo De Graficos" TextColor="White" FontSize="Large" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center" />
+            <forms:ChartView x:Name="Diagramacircular" HeightRequest="150" />
+            <forms:ChartView x:Name="Diagramabarras" HeightRequest="150" />
+            <forms:ChartView x:Name="Diagramapuntos" HeightRequest="150" />
+            <forms:ChartView x:Name="Diagramaradial" HeightRequest="150" />
+            <forms:ChartView x:Name="Diagramalineas" HeightRequest="150" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

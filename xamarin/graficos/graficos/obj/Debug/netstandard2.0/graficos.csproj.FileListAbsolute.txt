@@ -1,0 +1,15 @@
+D:\programacion_moviles\xamarin\graficos\graficos\bin\Debug\netstandard2.0\graficos.deps.json
+D:\programacion_moviles\xamarin\graficos\graficos\bin\Debug\netstandard2.0\graficos.dll
+D:\programacion_moviles\xamarin\graficos\graficos\bin\Debug\netstandard2.0\ref\graficos.dll
+D:\programacion_moviles\xamarin\graficos\graficos\bin\Debug\netstandard2.0\graficos.pdb
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\graficos.csproj.AssemblyReference.cache
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\graficos.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\graficos.AssemblyInfoInputs.cache
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\graficos.AssemblyInfo.cs
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\graficos.csproj.CoreCompileInputs.cache
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\XamlC.stamp
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\graficos.dll
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\ref\graficos.dll
+D:\programacion_moviles\xamarin\graficos\graficos\obj\Debug\netstandard2.0\graficos.pdb

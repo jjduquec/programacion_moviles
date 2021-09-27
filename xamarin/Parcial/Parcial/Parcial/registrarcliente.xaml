@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Parcial.registrarcliente" 
+             Title="Registrar Cliente">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+
+                <Label Text="Nombre"></Label>
+                <Entry x:Name="nombre"></Entry>
+                <Label Text="Direccion Residencia"></Label>
+                <Entry x:Name="direccion"></Entry>
+                <Label Text="Colonia"></Label>
+                <Entry x:Name="colonia"></Entry>
+                <Label Text="Municipio"></Label>
+                <Entry x:Name="municipio"></Entry>
+                <Label Text="Numero Telefonico"></Label>
+                <Entry x:Name="telefono"></Entry>
+                <Label Text="Correo Electronico"></Label>
+                <Entry x:Name="correo"></Entry>
+                <Label Text="Url Fotografia IFE"></Label>
+                <Entry x:Name="url"></Entry>
+                <Label Text="Password"></Label>
+                <Entry  IsPassword="True" x:Name="passw"></Entry>
+                <Button Text="Enviar" Clicked="registrar"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

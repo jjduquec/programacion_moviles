@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Parcial.registrarproveedor" 
+             Title="Registrar Proveedor"
+             
+             > 
+            
+    <ContentPage.Content>
+            <ScrollView>
+                <StackLayout>
+                <Label Text="Nombre" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="nombre"></Entry>
+                <Label Text="Direccion" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="direccion"></Entry>
+                <Label Text="Calle" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="calle"></Entry>
+                <Label Text="Colonia" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="colonia"></Entry>
+                <Label Text="Municipio" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="municipio"></Entry>
+                <Label Text="Telefono" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="telefono"></Entry>
+                <Label Text="Correo Electronico" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="correo"></Entry>
+                <Label Text="URL FOTO" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="foto"></Entry>
+                <Label Text="Password" FontSize="Large" TextColor="White"></Label>
+                <Entry x:Name="password"></Entry>
+                <Label Text="Medios de pago" TextColor="White" FontSize="Large"></Label>
+                <StackLayout>
+                    <CheckBox x:Name="efectivo"></CheckBox>
+                    <Label Text="Efectivo" TextColor="White" FontSize="Large"> </Label>                     
+                </StackLayout>
+                <StackLayout>
+                    <CheckBox x:Name="electronico"></CheckBox>
+                    <Label Text="Electronico" TextColor="White" FontSize="Large"></Label>
+                </StackLayout>
+                <Label Text="Que ofrece?" FontSize="Large"></Label>
+                <StackLayout>
+                    <CheckBox x:Name="servicios"></CheckBox>
+                    <Label Text="Servicios" TextColor="White" FontSize="Large"></Label>
+                </StackLayout>
+                <StackLayout>
+                    <CheckBox x:Name="productos"></CheckBox>
+                    <Label Text="Productos" TextColor="White" FontSize="Large"></Label>
+                </StackLayout>
+                <Label Text="Nombre del negocio" TextColor="White" FontSize="Large"></Label>
+                <Entry x:Name="nombre_negocio"></Entry>
+                <Label Text="Categoria negocio" TextColor="White" FontSize="Large"></Label>
+                <Entry x:Name="categoria_negocio"></Entry>
+                <Label Text="URL Logo del negocio" TextColor="White" FontSize="Large"></Label>
+                <Entry x:Name="logo_negocio"></Entry>
+                <Button Text="Enviar" Clicked="enviar"></Button>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
