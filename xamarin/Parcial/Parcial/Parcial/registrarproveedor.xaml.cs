@@ -63,7 +63,7 @@ namespace Parcial
 
 
 
-        public void enviar() {
+        public void enviar(object sender, EventArgs e ) {
             string folder = System.Environment.GetFolderPath(System.Environment.SpecialFolder.LocalApplicationData);
             string path_bd = System.IO.Path.Combine(folder, "Aplicativo.db");
             var db = new SQLiteConnection(path_bd); //conexion bd

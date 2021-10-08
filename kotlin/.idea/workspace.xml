@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cd2570d-3739-4de0-85f8-1ae7cd215588" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/.vs/Parcial/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/.vs/Parcial/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/.vs/Parcial/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/.vs/Parcial/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/Parcial.Android.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/Parcial.Android.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/Parcial.Android.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/Parcial.Android.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/Parcial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/Parcial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/Parcial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/Parcial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/com.companyname.parcial-Signed.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/com.companyname.parcial-Signed.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/com.companyname.parcial.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/bin/Debug/com.companyname.parcial.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/Parcial.Android.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/Parcial.Android.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/Parcial.Android.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/Parcial.Android.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/Parcial.Android.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/Parcial.Android.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/_TelemetryProps" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/_TelemetryProps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/assets/Parcial.Android.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/assets/Parcial.Android.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/assets/Parcial.Android.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/assets/Parcial.Android.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/assets/Parcial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/assets/Parcial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/assets/Parcial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/assets/Parcial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/bin/classes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/bin/classes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/bin/com.companyname.parcial.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/bin/com.companyname.parcial.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.arm64-v8a.o" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.arm64-v8a.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.arm64-v8a.s" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.arm64-v8a.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.armeabi-v7a.o" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.armeabi-v7a.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.armeabi-v7a.s" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.armeabi-v7a.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.x86.o" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.x86.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.x86.s" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.x86.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.x86_64.o" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.x86_64.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.x86_64.s" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/android/environment.x86_64.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/app_shared_libraries/arm64-v8a/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/app_shared_libraries/arm64-v8a/libxamarin-app.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/app_shared_libraries/armeabi-v7a/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/app_shared_libraries/armeabi-v7a/libxamarin-app.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/app_shared_libraries/x86/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/app_shared_libraries/x86/libxamarin-app.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/app_shared_libraries/x86_64/libxamarin-app.so" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/app_shared_libraries/x86_64/libxamarin-app.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/buildid.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial.Android/obj/Debug/110/buildid.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/bin/Debug/netstandard2.0/Parcial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/bin/Debug/netstandard2.0/Parcial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/bin/Debug/netstandard2.0/Parcial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/bin/Debug/netstandard2.0/Parcial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/bin/Debug/netstandard2.0/ref/Parcial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/bin/Debug/netstandard2.0/ref/Parcial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/Parcial.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/Parcial.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/Parcial.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/Parcial.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/Parcial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/Parcial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/Parcial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/Parcial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/ref/Parcial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/obj/Debug/netstandard2.0/ref/Parcial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/registrarproveedor.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../xamarin/Parcial/Parcial/Parcial/registrarproveedor.xaml.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zCKmyxusOZlIkJEERuyLxua8AM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd2570d-3739-4de0-85f8-1ae7cd215588" name="Default Changelist" comment="" />
+      <created>1633646854293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633646854293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

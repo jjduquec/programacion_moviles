@@ -16,3 +16,4 @@ D:\programacion_moviles\xamarin\Parcial\Parcial\Parcial\obj\Debug\netstandard2.0
 D:\programacion_moviles\xamarin\Parcial\Parcial\Parcial\obj\Debug\netstandard2.0\BienvenidaCliente.xaml.g.cs
 D:\programacion_moviles\xamarin\Parcial\Parcial\Parcial\obj\Debug\netstandard2.0\registrarproveedor.xaml.g.cs
 D:\programacion_moviles\xamarin\Parcial\Parcial\Parcial\obj\Debug\netstandard2.0\Parcial.csproj.AssemblyReference.cache
+D:\programacion_moviles\xamarin\Parcial\Parcial\Parcial\obj\Debug\netstandard2.0\BienvenidaProveedor.xaml.g.cs
