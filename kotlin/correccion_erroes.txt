@@ -1,0 +1,9 @@
+para cubrir el error en las referencias hacer lo siguiente :  
+
+1- abrir Gradle Scripts  
+2- Seleccionar build.gradle  
+3-  en los plugins agregar :  
+	id 'kotlin-android-extensions' 
+4- regresar al componente main  
+5- agregar a las importaciones:  
+	import kotlinx.android.synthetic.main.activity_main.*
