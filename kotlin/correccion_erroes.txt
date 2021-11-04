@@ -6,4 +6,8 @@ para cubrir el error en las referencias hacer lo siguiente :
 	id 'kotlin-android-extensions' 
 4- regresar al componente main  
 5- agregar a las importaciones:  
-	import kotlinx.android.synthetic.main.activity_main.*
+	import kotlinx.android.synthetic.main.activity_main.* 
+
+
+numeros aleatorios kotlin
+ val numero = (Math.random() * 100_001).toInt()

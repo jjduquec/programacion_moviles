@@ -7,35 +7,43 @@
     tools:context=".MainActivity">
 
     <LinearLayout
-        android:id="@+id/bt_registrar"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
-
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Recuperar"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
-
-        <Button
-            android:id="@+id/bt_detalles"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Detalles" />
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
 
         <TextView
             android:id="@+id/textView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Registrar"
+            android:text="Registrar Email"
             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
+        <EditText
+            android:id="@+id/email_vw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textEmailAddress" />
+
         <Button
-            android:id="@+id/button"
+            android:id="@+id/bt_registrar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Registrar" />
+
+        <Button
+            android:id="@+id/bt_recuperar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Recuperar" />
+
+        <TextView
+            android:id="@+id/registro_vw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
