@@ -30,5 +30,18 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Verificar" />
+
+        <TextView
+            android:id="@+id/puntuacion_vw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Puntuacion:"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:id="@+id/bt_jugar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jugar de nuevo" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
